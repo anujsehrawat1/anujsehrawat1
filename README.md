@@ -63,9 +63,9 @@ mission     : Build something as big as Facebook (fr)
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anuj-sehrawat1&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=anujsehrawat1&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anuj-sehrawat1&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anujsehrawat1&theme=tokyonight&hide_border=true" height="170"/>
 
 </div>
 
@@ -90,7 +90,7 @@ mission     : Build something as big as Facebook (fr)
 
 <p align="center">
 
-<a href="https://github.com/anuj-sehrawat1">
+<a href="https://github.com/anujsehrawat1">
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
 </a>
 
