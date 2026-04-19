@@ -1,21 +1,21 @@
-<div align="center">
+<h1 align="center">Hey there, I'm Anuj 👋</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:020617&height=220&section=header&text=Anuj%20Sehrawat&fontSize=55&fontColor=38bdf8&animation=twinkling&desc=Building%20Things%20That%20Shouldn’t%20Exist%20%E2%9A%A1&descSize=18&descAlignY=70"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=18&duration=2500&pause=700&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Dev+%F0%9F%92%BB;App+Builder+%7C+API+Wizard+%F0%9F%A7%A0;Firebase+Lover+%F0%9F%94%A5;Turning+ideas+into+real+products." />
-
-</div>
+<p align="center">
+  <img src="https://i.gifer.com/2GU.gif" width="350" />
+</p>
 
 ---
 
 ## 🧠 About Me
 
-```yaml
-name        : Anuj Sehrawat
-role        : Developer | Builder | Idea Machine
-focus       : Apps, APIs, Real-time Systems
-vibe        : "I don't just code, I create systems."
-mission     : Build something as big as Facebook (fr)
+```json
+{
+  "name": "Anuj Sehrawat",
+  "role": "Developer | Builder | Idea Machine",
+  "focus": "Apps, APIs, Real-time Systems",
+  "vibe": "I don't just code, I create systems.",
+  "mission": "Build something as big as Facebook (fr)"
+}
 ```
 
 ---
@@ -120,10 +120,4 @@ mission     : Build something as big as Facebook (fr)
 
 </p>
 
----
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1e293b,100:0f172a&height=120&section=footer"/>
-
-</div>
