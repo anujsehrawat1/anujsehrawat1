@@ -84,6 +84,19 @@
 > “If it doesn’t exist, I’ll build it.”  
 > “If it exists, I’ll build it better.”
 
+
+---
+
+## 💳 Support / Payments
+
+<p align="center">
+
+<a href="https://razorpay.me/@anujj">
+<img src="https://img.shields.io/badge/Pay%20via%20Razorpay-0A2540?style=for-the-badge&logo=razorpay&logoColor=white"/>
+</a>
+
+</p>
+
 ---
 
 ## 📬 Connect
