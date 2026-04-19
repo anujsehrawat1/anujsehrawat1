@@ -1,5 +1,10 @@
 <h1 align="center">Hey there, I'm Anuj 👋</h1>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20Source%20Contributor-212121?style=for-the-badge&logo=github&logoColor=white" alt="Open Source Contributor" />
+  <img src="https://img.shields.io/badge/Keen%20Researcher-007ACC?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Keen Researcher" />
+  <img src="https://img.shields.io/badge/Curious%20Mind-FFD700?style=for-the-badge&logo=lightbulb&logoColor=black" alt="Curious Mind" />
+  <img src="https://img.shields.io/badge/CSE%20Undergrad-4CAF50?style=for-the-badge&logo=electron&logoColor=white" alt="CSE Undergrad" />
+</p>
 <p align="center">
   <img src="https://i.gifer.com/2GU.gif" width="350" />
 </p>
