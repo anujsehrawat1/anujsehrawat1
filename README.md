@@ -68,9 +68,11 @@
 
 <div align="center">
 
-<img src="github-metrics.svg" alt="GitHub Metrics" width="450" />
+<!-- Metrics Card -->
+<img src="https://raw.githubusercontent.com/anujsehrawat1/anujsehrawat1/output/github-metrics.svg" alt="GitHub Metrics" width="450" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anujsehrawat1&theme=tokyonight&hide_border=true" height="170"/>
+<!-- Streak Stats Card -->
+<img src="https://raw.githubusercontent.com/anujsehrawat1/anujsehrawat1/output/streak-stats.svg" alt="GitHub Streak" width="450" />
 
 </div>
 
