@@ -68,7 +68,7 @@
 
 <div align="center">
 
-<img src="github-metrics.svg" alt="GitHub Metrics" width="100%" />
+<img src="github-metrics.svg" alt="GitHub Metrics" width="450" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=anujsehrawat1&theme=tokyonight&hide_border=true" height="170"/>
 
