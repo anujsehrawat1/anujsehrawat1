@@ -1,21 +1,32 @@
-name: Metrics
+name: Update Streak Stats
+
 on:
-  schedule: [{cron: "0 */12 * * *"}]
+  schedule:
+    - cron: "0 0 * * *"
   workflow_dispatch:
-  push: {branches: ["master", "main"]}
+
 jobs:
-  github-metrics:
+  update-streak:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      # Step 1: Seedha 'output' branch ko checkout karenge
+      - name: Checkout Output Branch
+        uses: actions/checkout@v4
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: anujsehrawat1
-          template: classic
-          base: header, activity, community, repositories, metadata
-          config_timezone: Asia/Kolkata
-          output_action: commit
-          committer_branch: output  # Ye images ko output branch mein bhejega
-          committer_message: "chore: update github metrics"
+          ref: output 
+
+      # Step 2: SVG Download karenge
+      - name: Download Streak Stats SVG
+        run: |
+          curl -o streak-stats.svg "https://github-readme-streak-stats.herokuapp.com/?user=anujsehrawat1&theme=tokyonight&hide_border=true"
+          
+      # Step 3: Commit aur Push karenge
+      - name: Commit and Push to Repo
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add streak-stats.svg
+          git commit -m "chore: update daily streak stats" || exit 0
+          git push origin output
