@@ -43,26 +43,42 @@
 - 🎮 Realtime Games Platform → Aviator, Mines, WinGo type system  
 - 🤖 Telegram Bots (earnings, referrals, automation)
 
----
+<div align="center">
 
-## 🛠 Tech Stack
+### Languages
+<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,c,cs,java,kotlin,rust,go&theme=dark&perline=10" />
 
-### 💻 Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,python,cpp" />
-</p>
+### Frontend + Desktop
+<img src="https://skillicons.dev/icons?i=react,nextjs,electron,html,css,tailwind,vite,qt&theme=dark&perline=8" />
 
-### 🌐 Web + Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" />
-</p>
+### Backend + Systems
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,docker,git,github,linux,nginx&theme=dark&perline=8" />
 
-### 🗄️ Database & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=firebase,mongodb,git,github,vscode" />
-</p>
+### Data + Infrastructure
+<img src="https://skillicons.dev/icons?i=sqlite,postgres,mongodb,redis,firebase,aws&theme=dark&perline=6" />
 
----
+### ML + Graphics
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,threejs,blender&theme=dark&perline=4" />
+
+### Models + Local AI
+<div>
+  <img src="https://img.shields.io/badge/TRANSFORMERS-111318?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Transformers">
+  <img src="https://img.shields.io/badge/GEMMA-111318?style=for-the-badge" alt="Gemma">
+  <img src="https://img.shields.io/badge/QWEN-111318?style=for-the-badge" alt="Qwen">
+  <img src="https://img.shields.io/badge/OLLAMA-111318?style=for-the-badge&logo=ollama" alt="Ollama">
+  <img src="https://img.shields.io/badge/GGUF-111318?style=for-the-badge" alt="GGUF">
+  <img src="https://img.shields.io/badge/LLAMA.CPP-111318?style=for-the-badge" alt="Llama.cpp">
+  <img src="https://img.shields.io/badge/NF4-111318?style=for-the-badge" alt="NF4">
+  <img src="https://img.shields.io/badge/CUDA-111318?style=for-the-badge&logo=nvidia&logoColor=8A8A90" alt="CUDA">
+  <img src="https://img.shields.io/badge/RAG-111318?style=for-the-badge" alt="RAG">
+  <img src="https://img.shields.io/badge/TRELLIS-111318?style=for-the-badge" alt="Trellis">
+  <img src="https://img.shields.io/badge/ULTRASHAPE-111318?style=for-the-badge" alt="UltraShape">
+  <img src="https://img.shields.io/badge/ACE_STEP-111318?style=for-the-badge" alt="Ace Step">
+</div>
+
+<br><br>
+
+</div>
 
 ## 📊 GitHub Stats
 
